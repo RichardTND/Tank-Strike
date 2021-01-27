@@ -1,0 +1,660 @@
+fileFormatVersion: 2
+guid: 58c014904dc46064891a96084779b1d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4685740115690537699
+    second: BirdEnemy_0
+  - first:
+      213: 5277110846298051591
+    second: BirdEnemy_1
+  - first:
+      213: 7302074891163367151
+    second: BirdEnemy_2
+  - first:
+      213: -266459369112212588
+    second: BirdEnemy_3
+  - first:
+      213: 8448365420329144448
+    second: BirdEnemy_4
+  - first:
+      213: -7590881486878752817
+    second: BirdEnemy_5
+  - first:
+      213: 2147447251149488404
+    second: BirdEnemy_6
+  - first:
+      213: -4965743457388365909
+    second: BirdEnemy_7
+  - first:
+      213: -4088022761147606922
+    second: BirdEnemy_8
+  - first:
+      213: 1902360897458453300
+    second: BirdEnemy_9
+  - first:
+      213: -4607090992989200172
+    second: BirdEnemy_10
+  - first:
+      213: 8013788116819994785
+    second: BirdEnemy_11
+  - first:
+      213: 1757450040706778984
+    second: BirdEnemy_12
+  - first:
+      213: 7547587561142972539
+    second: BirdEnemy_13
+  - first:
+      213: 4252124905495756378
+    second: BirdEnemy_14
+  - first:
+      213: 9201688297073313541
+    second: BirdEnemy_15
+  - first:
+      213: -3522455816032042815
+    second: BirdEnemy_16
+  - first:
+      213: 7274490069302088654
+    second: BirdEnemy_17
+  - first:
+      213: -6240564680703512495
+    second: BirdEnemy_18
+  - first:
+      213: 4549422094662775368
+    second: BirdEnemy_19
+  - first:
+      213: -2766475061971095208
+    second: BirdEnemy_20
+  - first:
+      213: 3825301576763260606
+    second: BirdEnemy_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BirdEnemy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1030
+        width: 479
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1db77ed038e8feb0800000000000000
+      internalID: -4685740115690537699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdEnemy_1
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1024
+        width: 547
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704d4f9fa501c3940800000000000000
+      internalID: 5277110846298051591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdEnemy_2
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1023
+        width: 505
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6771bec6e265560800000000000000
+      internalID: 7302074891163367151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdEnemy_3
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 644
+        width: 111
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bedf49d985d4cf0800000000000000
+      internalID: -266459369112212588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdEnemy_4
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 644
+        width: 110
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0809963a69f9e3570800000000000000
+      internalID: 8448365420329144448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdEnemy_5
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 555
+        width: 145
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfb0828185c7a690800000000000000
+      internalID: -7590881486878752817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdEnemy_6
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 555
+        width: 145
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41187a2b5e34dcd10800000000000000
+      internalID: 2147447251149488404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdEnemy_7
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 555
+        width: 145
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba775a892a2261bb0800000000000000
+      internalID: -4965743457388365909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdEnemy_8
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 555
+        width: 145
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678d51045fc6447c0800000000000000
+      internalID: -4088022761147606922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdEnemy_9
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 465
+        width: 192
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bba97382b866a10800000000000000
+      internalID: 1902360897458453300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdEnemy_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 465
+        width: 191
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d02afab6235010c0800000000000000
+      internalID: -4607090992989200172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdEnemy_11
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 465
+        width: 191
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a86d4855d1b63f60800000000000000
+      internalID: 8013788116819994785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdEnemy_12
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 465
+        width: 192
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867c2da2087b36810800000000000000
+      internalID: 1757450040706778984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdEnemy_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 375
+        width: 253
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b707515e5ea6eb860800000000000000
+      internalID: 7547587561142972539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdEnemy_14
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 3
+        width: 275
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e7aa4a215920b30800000000000000
+      internalID: 4252124905495756378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdEnemy_15
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 375
+        width: 252
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5078ce8e0c6f2bf70800000000000000
+      internalID: 9201688297073313541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdEnemy_16
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 3
+        width: 275
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0c66c1919bd1fc0800000000000000
+      internalID: -3522455816032042815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdEnemy_17
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 374
+        width: 252
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec39bd61d2e24f460800000000000000
+      internalID: 7274490069302088654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdEnemy_18
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 3
+        width: 275
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15071d0ac7f0569a0800000000000000
+      internalID: -6240564680703512495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdEnemy_19
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 376
+        width: 252
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84230bd8a4bc22f30800000000000000
+      internalID: 4549422094662775368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdEnemy_20
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 3
+        width: 274
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8517c3ba6918b99d0800000000000000
+      internalID: -2766475061971095208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdEnemy_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 274
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe37b94483361530800000000000000
+      internalID: 3825301576763260606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
