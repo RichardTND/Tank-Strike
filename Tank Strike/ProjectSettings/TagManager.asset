@@ -7,6 +7,11 @@ TagManager:
   - enemyBat
   - enemyBird
   - enemyBug
+  - player
+  - enemyBullet
+  - background
+  - TitleLogo
+  - divingBird
   layers:
   - Default
   - TransparentFX

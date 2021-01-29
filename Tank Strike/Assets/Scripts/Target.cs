@@ -3,23 +3,24 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Target : MonoBehaviour
+
 {
+    public GameObject swoopingBird;
+    public Transform spawnPoint;
 
-    [SerializeField] private GameObject playerTank;
-    [SerializeField] private GameObject swoopingBird;
-
-    // Start is called before the first frame update
-    void Start()
+   
+    void OnTriggerEnter2D(Collider2D other)
     {
-         
-    }
 
-    // Update is called once per frame
-    void Update()
-    {
-       
-            GameObject.Instantiate(swoopingBird, transform.position, transform.rotation);
+        if (other.gameObject.CompareTag("player"))
+
+        {
+
+            Instantiate(swoopingBird, spawnPoint.position, spawnPoint.rotation);
             Destroy(gameObject);
-       
+            Destroy(transform.parent.gameObject);
+
+
+        }
     }
 }

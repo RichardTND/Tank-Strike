@@ -14,12 +14,14 @@ public class DeathByTime : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //After the player has been destroyed give it time before GAME OVER
+
         deathAnimWaitTime = deathAnimWaitTime + 1; //Integer of 1 to death animation
         Debug.Log(deathAnimWaitTime);
         if (deathAnimWaitTime > 200)
         {
             Destroy(gameObject);
-            Debug.Log("GAME OVER!");
+            
         }
     }
 
